@@ -3,8 +3,8 @@
 # Competent Languages
 
 <p align="center">
-  <img src="python.png" width="100" height="100" title="python logo">
-  <img src="cplusplus.png" width="100" height="100" title="cplusplus logo">
+  <img src="python.png" width="50" height="50" title="python logo">
+  <img src="cplusplus.png" width="50" height="50" title="cplusplus logo">
 </p>
 
 <!--
