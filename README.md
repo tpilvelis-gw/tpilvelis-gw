@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="python.png" width="100" height="100" title="python logo">
+  <img src="c++" width="100" height="100" title="c++ logo">
 </p>
 
 <!--
