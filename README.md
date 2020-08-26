@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Competent Languages
+
+<p align="center">
+  <img src="python.png" width="100" height="100" title="python logo">
+</p>
+
 <!--
 **tpilvelis-gw/tpilvelis-gw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
