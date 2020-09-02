@@ -46,7 +46,7 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 
 2007 – 2014 	Havering Sixth Form		BTEC ICT (Dist* Dist) A-Level Moving Image Arts (C), 6 GCSE’s Grades A* - C’s including Maths, English 
 
-# TECHNICAL SKILLS
+# Technical Skills
 Programming Languages:		 		C/C++, C#, Python, React, HTML, CSS, JS
 
 Database: 					SQL, NoSQL
@@ -61,10 +61,10 @@ Cloud:						AWS, Azure.
 
 Other: 						Office, Adobe Creative, TFS, Medium.
 
-# TRANSFERABLE SKILLS
+# Transferable Skills
 Desire to build on skills | Highly Motivated | Teamwork and Leadership | Communication | Time Management | Desire to work outside of hours | Bring value as soon as I start
 
-# HOBBIES AND INTERESTS
+# Hobbies and Interests
 Climbing, American Football, Archery, Chess, Psychology, Tennis, Competed in CityHack 2018.
 
 
