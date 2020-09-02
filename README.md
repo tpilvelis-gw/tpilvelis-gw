@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Tomas Pilvelis
  <p>
   <a href="https://www.linkedin.com/in/tomas-pilvelis-5bb01b77/">
@@ -13,14 +11,14 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 
 <!--
 
-# PROFESSIONAL EXPERIENCE
+# Professional Experience
 ### Glasswall Solutions					
 - Site Reliability Engineer
 - Software Developer - Core
 - Junior Software Developer – Core
 
 ### Société Générale Corporate & Investment Banking
-- Execution Product – CD
+- Execution Product – CDO
 
 ### Liberal Democrats
 - Council Candidate
@@ -36,10 +34,10 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 
 -->
 
-# ACHIEVEMENTS
-7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall.
+# Achievements
+7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall | 3 Prototype Designs Used in Production Products at SocGen
 
-# EDUCATION AND QUALIFICATIONS
+# Education and Qualifications
 ### Professional:
 2020		AWS				AWS Certified Cloud Practitioner
 2018		Agility in Mind			Putting Scrum into Action
