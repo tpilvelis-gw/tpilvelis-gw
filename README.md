@@ -68,7 +68,7 @@ Desire to build on skills | Highly Motivated | Teamwork and Leadership | Communi
 Climbing, American Football, Archery, Chess, Psychology, Tennis, Competed in CityHack 2018.
 
 
-# 🔭 Repositories Contributed Towards ...
+# 🔭 Open Source Repositories Contributed Towards ...
 
 - https://github.com/glasswall-sre/dead-letter-watcher
 
