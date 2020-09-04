@@ -40,6 +40,7 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 # Education and Qualifications
 ### Professional:
 2020		AWS				AWS Certified Cloud Practitioner
+
 2018		Agility in Mind			Putting Scrum into Action
 ### Academic:
 2014 - 2019	City University London	 	2:1 BSc Computer Science (Hons)
