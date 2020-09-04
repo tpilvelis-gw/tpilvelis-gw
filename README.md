@@ -68,7 +68,7 @@ Desire to build on skills | Highly Motivated | Teamwork and Leadership | Communi
 # Hobbies and Interests
 Climbing, American Football, Archery, Chess, Psychology, Tennis, Competed in CityHack 2018.
 
-# 🔭 Open Source Repositories Contributed Towards ...
+# 🔭 Open source repositories contributed towards ...
 
 - https://github.com/glasswall-sre/dead-letter-watcher
 
@@ -82,15 +82,17 @@ Climbing, American Football, Archery, Chess, Psychology, Tennis, Competed in Cit
 
 - https://github.com/filetrust/Alert_Bot_InfoSec_Scotty
 
-- https://github.com/tpilvelis-gw/gw-dvl-vscode-extension
-
-#  💬 Ask me About ...
+#  💬 Ask me about ...
 
 - https://github.com/tpilvelis-gw/tomas-pilvelis-development-lead-application
 
 - https://github.com/tpilvelis-gw/bdd-workbench
 
 - https://github.com/tpilvelis-gw/rebuild-action
+
+# 👯 I’m looking to collaborate on ...
+
+- https://github.com/tpilvelis-gw/gw-dvl-vscode-extension
 
 <!--
 - 🌱 I’m currently learning ...
