@@ -35,7 +35,7 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 -->
 
 # Achievements
-7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall | 3 Prototype Designs Used in Production Products at SocGen
+7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall | 5 Prototype Designs Used in Production Products at SocGen
 
 # Education and Qualifications
 ### Professional:
